@@ -5,7 +5,7 @@ How to use
 'sudo npm install -g json-server'
 
 2. start json-server with json data.
-'json-server <json name>'
+'json-server json-file-name'
 
 example:
 json-server task_data.json
